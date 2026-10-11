@@ -1,0 +1,85 @@
+{
+  "name": "Default Questions",
+  "description": "The default questions to play with.",
+  "categories": {
+    "Matching": {
+      "cost": "Draw 3, Pick 1",
+      "questions": [
+        "Are you in the same section of campus? (Global village, academics, dormside, perkins, and the trails)",
+        "Is your nearest coffee shop the same as ours? (Beanz, The College Grind, Java’s, Midnight Oil)",
+        "Is your closest quad the same as ours? (Fountain Park, Infinity Quad, Destler and Johnson Quad, Eastman Kodak Quad, Pocket Park, Albert J [Sentinel] Quad, Zeke and Jane Duda Plaza [Gene Polisseni Center], Frisina Quad, North Quad, Central Quad, East Quad, Global Village Plaza, Greek Lawn)",
+        "Is your nearest sculpture the same as ours? (Sentinel, Tiger statue, Sundial, Infinity Quad, Unity)",
+        "Is your closest Bytes location the same as ours? (175 Jefferson, James E. Booth Hall, Frank E. Gannett Hall, Saunders College of Business,Perkins Green (405 Perkins Green building), Park Point (first floor))",
+        "Is your closest bus stop the same as ours?",
+        "Is your nearest main road the same as ours (East River Rd, Jefferson Rd, John St, Bailey Rd)"
+      ]
+    },
+    "Measuring": {
+      "cost": "Draw 3, Pick 1",
+      "questions": [
+        "Is your nearest building number higher or lower/same as ours?",
+        "Is your elevation higher or lower/same as ours?",
+        "Does your nearest building have more, or less/same floors than ours?",
+        "Is your nearest building newer than ours or older/same than ours?",
+        "Are you closer or farther from a dining location than us?",
+        "Are you closer or farther from an academic building than us?",
+        "Are you closer or farther from a sports field than us?",
+        "Are you closer or farther from a parking lot than us?"
+      ]
+    },
+    "Oddballs": {
+      "cost": "Draw 2, Pick 1",
+      "questions": [
+        "Send 30 seconds of audio recording (without you making noise)",
+        "How many people can you count in your full surroundings without moving? Allowed to round to nearest 5 for any number over 15",
+        "Send three words, one has to rhyme with nearest building",
+        "What is the volume of your nearest nap location? (Quiet, Average, Noisy) naps.rit.edu",
+        "Is your nearest road/path straight or curvy"
+      ]
+    },
+    "Radar": {
+      "cost": "Draw 2, Pick 1",
+      "questions": [
+        "1/2 Mile",
+        "1/4 Mile",
+        "500 Feet",
+        "250 Feet",
+        "Custom"
+      ]
+    },
+    "Thermometer": {
+      "cost": "Draw 2, Pick 1",
+      "questions": [
+        "100 Feet",
+        "The Quarter Mile™"
+      ]
+    },
+    "Photos": {
+      "cost": "Draw 1",
+      "questions": [
+        "Photo of a wall",
+        "Photo straight up",
+        "Photo of ground from standing height",
+        "Photo of a vending machine",
+        "Photo of something orange",
+        "Photo of your nearest RIT Logo",
+        "Photo of a door",
+        "Photo of graffiti",
+        "Photo of a plant",
+        "Photo of a water fountain"
+      ]
+    },
+    "Good Photos": {
+      "cost": "Draw 2",
+      "questions": [
+        "Photo of the closest blue light",
+        "Photo of a building roof",
+        "Photo of a car",
+        "Photo of a bulletin board",
+        "Photo of a window",
+        "Photo of a table",
+        "Photo of a chair"
+      ]
+    }
+  }
+}
